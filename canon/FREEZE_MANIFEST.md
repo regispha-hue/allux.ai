@@ -13,7 +13,7 @@ FREEZE RULES
 FREEZE ID
 - Canon Version: 1.0
 - Canon File: canon/ALLUX_CANON_v1.0.json
-- Canon Hash (SHA-256): TO_BE_FILLED_AFTER_HASH
+- Canon Hash (SHA-256): 7E27658A0791607EBA54C66FA335D7488E239893402BA2986157EC117E113EBA
 
 SIGN-OFF
 - Owner: Regis (repo: regispha-hue/allux.ai)
