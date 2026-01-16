@@ -1,0 +1,11 @@
+{
+  "system": "ALLUX",
+  "component": "CANON",
+  "status": "FROZEN",
+  "version": "1.0",
+  "hash_algorithm": "SHA256",
+  "hash": "7E27658A0791607EBA54C66FA335D7488E239893402BA2986157EC117E113EBA",
+  "timestamp": "2026-01-16",
+  "immutability": "ENFORCED",
+  "note": "Any modification requires new version and new hash"
+}
