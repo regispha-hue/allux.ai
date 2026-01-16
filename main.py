@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from allux_core import ALLUX_CORE_ONTOLOGY
+from core import ALLUX_CORE_ONTOLOGY
 
 app = FastAPI(title="Allux.ai", version="1.0")
 
